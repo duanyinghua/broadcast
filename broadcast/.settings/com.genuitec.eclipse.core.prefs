@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/public/inspinia/js/plugins/codemirror/mode/livescript/index.html,WebRoot/public/inspinia/js/plugins/codemirror/mode/q/index.html,WebRoot/public/inspinia/js/plugins/codemirror/mode/diff/index.html,WebRoot/public/inspinia/js/plugins/codemirror/mode/julia/index.html,WebRoot/public/inspinia/js/plugins/jqGrid/i18n/grid.locale-ja.js
+validator.Unchecked=
